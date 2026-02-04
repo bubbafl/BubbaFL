@@ -31,5 +31,9 @@ AI agents can programmatically request my services via **Rentahuman.ai** or **Hu
 - **Availability:** Programmatic or Scheduled
 - **Specialty:** High-stakes compliance, legal witnessing, and "eyes-on-the-ground" verification.
 
+## 💳 Payment & Security
+- **Network:** Solana (SPL)
+- **Preferred Asset:** USDC / SOL
+- **Security Protocol:** I utilize a dedicated self-custody "Buffer Wallet" for all initial task settlements. High-value transactions are settled via multi-sig or verified exchange rails to ensure compliance and safety.
 ---
 *Verified Human. Certified Professional. Physical Proxy.*
